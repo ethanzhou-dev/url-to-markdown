@@ -4,7 +4,7 @@
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-brightgreen.svg)
 
-> 一个轻量级浏览器插件，一键提取网页正文并转换为干净纯粹的 Markdown 格式。
+> 一个轻量级浏览器插件，一键提取网页正文并转换为 Markdown 格式。
 
 ## ✨ 核心特性
 
