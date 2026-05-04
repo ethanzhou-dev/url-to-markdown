@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h2>全自动网页剥壳机</h2>
+    <p>提取当前网页正文，一键复制为 Markdown。</p>
+    <div class="actions">
+      <button id="extractBtn">提取并复制 Markdown</button>
+    </div>
+    <div id="status" class="status">准备就绪</div>
+    <textarea id="output" readonly placeholder="提取的内容将显示在这里..."></textarea>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

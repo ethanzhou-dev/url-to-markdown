@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "全自动网页剥壳机 (Web to Markdown)",
+  "version": "1.0.0",
+  "description": "提取网页正文并转换为干净的 Markdown 格式，丢弃广告、菜单等无关内容。",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
